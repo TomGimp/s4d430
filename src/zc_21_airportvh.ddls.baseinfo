@@ -3,13 +3,10 @@
 {
 "FROM":
 [
-"ZI_21_CONNECTIONTP"
+"SAIRPORT"
 ],
 "ASSOCIATED":
-[
-"ZC_21_AIRPORTVH",
-"ZC_21_FLIGHTTP"
-],
+[],
 "BASE":
 [],
 "ANNO_REF":
